@@ -92,5 +92,7 @@ Répond uniquement par true ou false.
 > La mémoire sociale vient de ton code.
 
 
+pour une nouvelle version du CLASP je propose de l'embedding a la place d'un resumé pour detecter si les x derniers message on pour meme sujet.
+
 # CLASP – Context-Locked Adaptive Social Prompting
 > by Léo Eyrard
