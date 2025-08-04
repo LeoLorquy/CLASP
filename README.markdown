@@ -91,8 +91,8 @@ Répond uniquement par true ou false.
 > Le cerveau vient du modèle.
 > La mémoire sociale vient de ton code.
 
-
 pour une nouvelle version du CLASP je propose de l'embedding a la place d'un resumé pour detecter si les x derniers message on pour meme sujet.
+ou meme un algo cosine-similarity pour detecter les reponse de tel ou tel questions il est donc plus simple de savoir si une personne repond au bot ou non SANS explicitement mentionné le bot ( avec comme exemple discord )
 
 # CLASP – Context-Locked Adaptive Social Prompting
 > by Léo Eyrard
